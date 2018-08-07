@@ -1,2 +1,0 @@
-# pyhon
-Python scripts
